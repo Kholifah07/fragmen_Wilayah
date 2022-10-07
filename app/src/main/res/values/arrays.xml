@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="negara">
+        <item>afrika selatan</item>
+        <item>argentina</item>
+        <item>albania</item>
+        <item>amerika serikat</item>
+        <item>australia</item>
+        <item>bahama</item>
+        <item>bangladesh</item>
+        <item>belanda</item>
+        <item>belgia</item>
+        <item>bolivia</item>
+        <item>ceko</item>
+        <item>chili</item>
+        <item>china</item>
+        <item>chad</item>
+        <item> </item>
+        <item>denmark</item>
+        <item>dominika</item>
+        <item>djiboti</item>
+        <item> </item>
+        <item> </item>
+        <item>ekuador</item>
+        <item>ethiopia</item>
+        <item>ertrea</item>
+        <item>el savador</item>
+        <item>estonia</item>
+        <item>fiji</item>
+        <item>filipina</item>
+        <item>finladia</item>
+        <item> </item>
+        <item> </item>
+        <item>gabon</item>
+        <item>gambia</item>
+        <item>gergia</item>
+        <item>ghana</item>
+        <item>guinea</item>
+        <item>haiti</item>
+        <item>honduras</item>
+        <item>hongaria</item>
+        <item>india</item>
+        <item>indonesia</item>
+        <item>irak</item>
+        <item>iran</item>
+        <item>islandia</item>
+        <item>israel</item>
+        <item>jamaika</item>
+        <item>jepang</item>
+        <item>jerman</item>
+        <item>kenya</item>
+        <item>kolombia</item>
+        <item>komoro</item>
+        <item>korea selatan </item>
+        <item>korea utara</item>
+        <item>laos</item>
+        <item>latvia</item>
+        <item>lebanon</item>
+        <item>liberia</item>
+        <item>luksemburg</item>
+        <item>madagaskar</item>
+        <item>maladewa</item>
+        <item>malaysia</item>
+        <item>malawi</item>
+        <item>maroko</item>
+        <item>myanmar</item>
+        <item>namibia</item>
+        <item>nepal</item>
+        <item>niger</item>
+        <item>norwegia</item>
+        <item>nigeria</item>
+        <item>oman</item>
+        <item>oslo</item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item>pakistan</item>
+        <item>palau</item>
+        <item>papua nugini</item>
+        <item>perancis </item>
+        <item>peru</item>
+        <item>polandia</item>
+        <item>portugal</item>
+        <item>qatar</item>
+        <item>rusia</item>
+        <item>rumania</item>
+        <item>rwanda</item>
+        <item>republik dominika</item>
+        <item>republik demokratik kongo</item>
+        <item>samoa</item>
+        <item>san marino</item>
+        <item>selandia baru</item>
+        <item>serbia</item>
+        <item>singapura</item>
+        <item>slowakia</item>
+        <item>sri lanka</item>
+        <item>swiss</item>
+        <item>thailand</item>
+        <item>timor leste</item>
+        <item>togo</item>
+        <item>tonga</item>
+        <item>turki</item>
+        <item>ukraina</item>
+        <item>uni emirat arap</item>
+        <item>uganda</item>
+        <item>uzbekistan</item>
+        <item>vietnam</item>
+        <item>vanuatu</item>
+        <item>venzuela</item>
+        <item>yaman</item>
+        <item>yunani</item>
+        <item>yordania</item>
+        <item>yogurt</item>
+        <item>zambia</item>
+        <item>zimbabwe</item>
+    </string-array>
+</resources>
